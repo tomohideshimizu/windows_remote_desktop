@@ -1,6 +1,6 @@
 ﻿@Echo off
 
-Set SERVER=server:3389
+Set SERVER=server
 set WIDTH=1920
 set HEIGHT=1080
 Set USERNAME=username
